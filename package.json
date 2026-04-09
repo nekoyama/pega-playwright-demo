@@ -1,0 +1,30 @@
+{
+  "name": "pega-playwright-demo",
+  "version": "1.0.0",
+  "description": "This repository demonstrates how to implement **end‑to‑end UI test automation for a Pega Constellation application** using **Playwright with TypeScript**.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekoyama/pega-playwright-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/nekoyama/pega-playwright-demo/issues"
+  },
+  "homepage": "https://github.com/nekoyama/pega-playwright-demo#readme",
+  "dependencies": {
+    "@playwright/test": "^1.59.1"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.2"
+  }
+}
